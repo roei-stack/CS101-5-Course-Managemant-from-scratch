@@ -1,0 +1,135 @@
+5
+1
+  9210 Advanced Programming 1
+1
+@4564 Advanced Programming 1
+1
+12345Advanced Programming 1 
+1
+12345 Advanced Programming @
+1
+123456 Advanced Programming 1
+1
+12345    
+1
+12345
+1
+12345   qwertyuioplkjhgfdsazxcvbnm ertyg
+1
+Advanced Programming 1 12345
+1
+12345  t
+1
+12345  time travel
+1
+    12345     Defense Against the DARK ARTS 
+1
+90001   Potions 101
+1
+90001   Potions
+   1
+00000     muggle music  
+1
+40245 Herbology 345
+1
+09750  Broom Flying For Beginners
+1
+23467   fortune telling
+2
+Harry Potter  23467,100;
+2
+Harry Potter: 00010, 78;
+2
+Harry Potter: 00000 100;
+2
+Harry Potter:00000,100
+2
+Harry Potter: 00000,100;01234,78;
+4
+00000
+2
+Harry Potter: 09750,101;
+2
+Harry Potter:   09750,-2;
+2
+Harry Potter:  234.7,100;
+2
+Harry Potter:  12345,67.9;
+2
+#HarryPotter: 23467,100;
+2
+:   23467,100; 40245, 0;
+2
+Harry Potter: 
+2
+    : 09750,100; 12345,98;
+2
+Harry Potter The Magnificent Wizard: 09750,100; 12345,98;
+2
+Harry Potter1: 09750,100; 12345,98;
+2
+Harry Potter: 09750,100; 12345,98;
+2
+   Harry Potter: 12345,89;
+  2
+Hermione Granger: 90001,100;   09750,100; 40245,   100;12345,100;
+2
+Luna Lovegood:   90001,100; 40245, 0;
+2
+Neville   Longbottom: 12345,  65; 90001, 45; 09750,32;
+2
+Draco Malfoy:40245,93;12345,99;   
+4
+40245
+3
+Luna Lovegood   90001,100; 40245, 0;
+3
+:   23467,100; 40245, 0;
+3
+Ron Weasley:   40245,
+3
+Luna Lovegood:
+3
+Luna Lovegood: 34343
+3
+Luna Lovegood:   40245
+3
+Luna Lovegood:   40245,34343,
+3
+Luna Lovegood:   40245,12345,
+3
+Luna Lovegood:   40245,90001,
+3
+Luna Lovegood:   40245,
+4
+40245
+4
+00000
+4
+56789
+4
+     09750 
+4
+   09750
+5
+   a
+5
+b
+5
+c
+5
+d
+5
+e
+5
+0
+7
+#
+6
+3
+Hermione Granger: 90001,  09750, 90001,
+4
+09750
+1
+09750 fortune telling
+0
